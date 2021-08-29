@@ -2,10 +2,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Hangman</h3>
+  <h3 align="center">JARVIS</h3>
 
   <p align="center">
-The game of words
+The all in one command center!
     <br />
     <a href="https://github.com/ShivanshGupta1/Hangman-Package"><strong>Explore the docs »</strong></a>
     <br />
@@ -38,13 +38,14 @@ The game of words
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+We all know JARVIS, from Marvel (please don't pour copyright issues on me). JARVIS is an awesome AI bot and also a companion! Don't you wanna do taks with it? Well try our npm JARVIS package
 
-A game we all have loved in our childhood! Why regret leaving it behind now? Try playing hangman, even at NODEJS! YES NODEJS
+Our 3 "E"s of Success
 
 Here's why:
-* Fun
+* Excellent
 * Easy
-* Related to "coding jargon" for true coders
+* Efficient
 
 
 
@@ -54,5 +55,3 @@ This section should list any major frameworks that you built your project using.
 * [NPM](https://npmjs.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Github](https://github.com/)
-* [Readline](https://www.npmjs.com/package/readline)
-
